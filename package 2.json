@@ -1,0 +1,19 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Note taking app",
+  "main": "node server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amyventura/Note-Taker.git"
+  },
+  "author": "Amy Ventura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amyventura/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/amyventura/Note-Taker#readme"
+}
